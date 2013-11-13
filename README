@@ -1,0 +1,10 @@
+Download elephant-bird library from https://github.com/kevinweil/elephant-bird/tree/master/pig
+Have the following jars in either an Amazon S3 bucket or some other location and appropriately
+update the pig script to use the correct base_dir.
+
+* slf4j-log4j12-1.5.0.jar
+* slf4j-api-1.5.10.jar
+* google-collect-1.0.jar
+* json-simple-1.1.jar
+* elephant-bird-pig-3.0.2.jar
+* fblink-0.0.1-SNAPSHOT.jar
